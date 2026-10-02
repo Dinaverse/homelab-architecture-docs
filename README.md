@@ -1,6 +1,6 @@
-# 🏗️ Sovereign AI Infrastructure
+# Homelab Architecture Docs
 
-> *Centralized architecture documentation for a distributed, cloud-agnostic AI and security laboratory engineered for resilience, privacy, and bare-metal performance.*
+> Architecture documentation for a distributed, self-hosted AI and security lab.
 
 ---
 
